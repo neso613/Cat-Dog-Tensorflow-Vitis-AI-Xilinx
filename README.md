@@ -1,5 +1,5 @@
 # Cat-Dog-Tensorflow-Vitis-AI-Xilinx
-A cat-dog classification pre-trained Tensorflow model for Xilinx using Vitis-AI.
+An example for cat-dog classification pre-trained Tensorflow model for Xilinx using Vitis-AI.
 
 ## Installation
 [Vitis-AI](https://github.com/Xilinx/Vitis-Tutorials)
